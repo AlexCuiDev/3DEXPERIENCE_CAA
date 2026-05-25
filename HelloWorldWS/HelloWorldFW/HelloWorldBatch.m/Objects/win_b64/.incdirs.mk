@@ -1,0 +1,8 @@
+/I"C:\Users\SDN-2022-901\Desktop\CAA_Study_0525\HelloWorldWS\.\HelloWorldFW\HelloWorldBatch.m\src"
+/I"C:\Users\SDN-2022-901\Desktop\CAA_Study_0525\HelloWorldWS\.\HelloWorldFW\HelloWorldBatch.m\LocalGenerated\win_b64"
+/I"C:\Users\SDN-2022-901\Desktop\CAA_Study_0525\HelloWorldWS\.\HelloWorldFW\PrivateInterfaces"
+/I"C:\Users\SDN-2022-901\Desktop\CAA_Study_0525\HelloWorldWS\.\HelloWorldFW\ProtectedInterfaces"
+/I"C:\Users\SDN-2022-901\Desktop\CAA_Study_0525\HelloWorldWS\.\HelloWorldFW\PublicInterfaces"
+/I"C:\Users\SDN-2022-901\Desktop\CAA_Study_0525\HelloWorldWS\.\HelloWorldFW\ImportedInterfaces\win_b64"
+/I"C:\PROGRA~1\DASSAU~1\T426\win_b64\.\tools\include\Windows"
+/I"C:\PROGRA~1\DASSAU~1\T426\win_b64\.\tools\include"

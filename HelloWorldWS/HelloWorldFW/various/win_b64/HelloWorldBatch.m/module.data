@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+INT/0000/CUS .\win_b64\code\bin\HelloWorldBatch.pdb|.\HelloWorldFW\HelloWorldBatch.m
+CSC/0000/DSI .\HelloWorldFW\HelloWorldBatch.m\Objects\win_b64\mkcsc\HelloWorldBatch.cscdb|.\HelloWorldFW\HelloWorldBatch.m
+RTV/0001/CUS .\win_b64\code\bin\HelloWorldBatch.exe|.\HelloWorldFW\HelloWorldBatch.m
+@kind=Native
+@built=true
+@type=LOADMODULE
+@clr=false
+@deliverable=true

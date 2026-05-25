@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{13c2f52a-c2e3-495b-9ab8-47e27b19e213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{204c3eb4-b5fd-446b-a34d-022307fd5f8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{cd4d438d-82b8-4064-a257-fa66f7161b90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{cee23bce-7621-4bbd-96d3-5f64e54cf38f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\HelloWorldFW\ProtectedInterfaces\HelloWorldBatch.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\HelloWorldFW\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\HelloWorldFW\IdentityCard\README.md">
+      <Filter>IdentityCard</Filter>
+    </None>
+  </ItemGroup>
+</Project>
